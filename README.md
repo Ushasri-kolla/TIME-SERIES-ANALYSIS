@@ -254,7 +254,7 @@ Prophet:
 
 ## 👥 Collaborators
 
-**Chetan29-30** (Chetankumar Ganesh Mete)
+**Chetan29-30** (Chetankumar Ganesh Meshram)
 - 🔗 GitHub: [@Chetan29-30](https://github.com/Chetan29-30)
 - 💼 Role: Co-Developer
 - 🎯 Contributions: LSTM implementation, data preprocessing, and model comparison framework
